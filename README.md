@@ -16,4 +16,4 @@
 - Backend-oriented scripts
 - System & application troubleshooting
 
-📫 Reach me: [LinkedIn](#)
+📫 Reach me: [LinkedIn]([https://www.linkedin.com/in/balhakan/])
